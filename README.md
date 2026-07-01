@@ -1,10 +1,9 @@
-# Hi, I'm Joy 👋
+# Hi, I'm Joy 
 ## I am interested in Data Analysis, Data Visualization, Statistical Analysis
 ## I'm looking to collaborate on projects, related to data analysis
 ## Skills
 - Excel
 - Power BI
-- SQL
 - Data Visualization
 - Data Analysis
 ## Goals
